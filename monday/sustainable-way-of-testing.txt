@@ -1,0 +1,21 @@
+Speaker: voice and a way of speaking made me sleepy.
+
+- structure tests into couple of methods (given - when - then)
+- parametrize repeating tests (i.e. pytest.mark.parametrize)
+- metaclass ... wtf?
+- frames ... wait, what? he is still talking about parametryzing
+- something about skipping test methods when inheriting
+  from another test class...
+
+Reqs:
+
+- parametrized tests
+- inherited tests data
+- no test repetition
+- controlled execution
+
+Would I recommend watching it: Not really. Speaker assumed
+that everyone uses test classes and recommended methods
+to simplify code. Personally I prefer stateless function
+over methods and break DRY rule when writing tests (which
+can make them more readable [in cost of more lines]).
