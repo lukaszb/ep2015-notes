@@ -1,0 +1,13 @@
+- speaker: very good
+- we have a phd here ;-)
+- machine learning super quick introduction
+  with diagrams explaining supervised/unsupervised clastering
+- describes assertions from the numpy.testing package
+- mentioned unittest.mock
+- shows examples of problems with classification,
+  overfitting, underfitting etc.
+- lists some numpy/scipy tools to check how
+  good is our algo
+
+Summary: not clear examples, lack of continuation
+(talk doesn't 'evolve' but rather jumps).
