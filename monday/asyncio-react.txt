@@ -1,0 +1,6 @@
+- Engaging slides.
+- Nice brief summary of ECMA Script 2015 (with examples)
+- libs: webpack, eslint, react
+- ReactJS code samples
+- asyncio introduction, list of related packages
+- aiohttp.web code samples
