@@ -4,3 +4,5 @@
 - ReactJS code samples
 - asyncio introduction, list of related packages
 - aiohttp.web code samples
+
+Would I recommend watching it: Yes, but not for tehnical knowledge. It's type of forward-screenshot-repeat talk. One can grab a list of interesting packages/snippets, though.
