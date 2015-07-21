@@ -1,0 +1,6 @@
+Guido is not a very good speaker imho, however, this is the best keynote
+given by the Python creator I've ever seen.
+
+It was structured, somewhat fresh, funny at times and has a pretty nice QA session.
+
+Would I recommend watching it: go for it; 7/10
