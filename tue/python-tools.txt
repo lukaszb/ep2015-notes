@@ -1,0 +1,5 @@
+- mentiones some well known tools (pyflakes etc)
+- and less known: (like vulture, yapf or isort)
+
+Would I recommend watching it: Not really, but it's fine to go fast-forward to get a list of
+interesting tools (however most of them we use already)
