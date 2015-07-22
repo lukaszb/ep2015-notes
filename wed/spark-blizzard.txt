@@ -1,0 +1,10 @@
+- nice structured talk
+- good speaker
+- easy to follow slides
+- explains briefly how spark works
+- https://spark.apache.org/docs/0.9.0/python-programming-guide.html
+- example of analyzing 20gb json file (wow auctionhouse data) on 8 machines
+- quick demo at the end
+
+Would I recommend watching it: Yep, it doesn't give much insight into
+the Spark, though. OTOH, it gives nice overview.
