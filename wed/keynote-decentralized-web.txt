@@ -1,0 +1,7 @@
+- some history on IP
+- introduction to InterPlanetary filesystem
+- http://ipfs.io/
+- explains a concept of "distributed http"
+
+Would I recommend watching it: Yes, if one likes storytelling.
+Personally I would skip the keynote and read a little at the website.
