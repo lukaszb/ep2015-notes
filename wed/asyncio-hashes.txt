@@ -1,0 +1,5 @@
+- clear talk, good speaker
+- some clean and simple code snippets
+- https://github.com/ntoll/drogulus
+
+Would I recommend watching it: probably scanning through repo would be enough (small code base).
