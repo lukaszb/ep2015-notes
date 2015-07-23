@@ -1,0 +1,6 @@
+- "Humans do not apply" (youtube video mentioned during the talk)
+- "pyland"
+- "pygame zero"
+- "sonicPi"
+
+Would I recommend watching it: Definitely, it was really good, especially if one is interested in education/teaching.
