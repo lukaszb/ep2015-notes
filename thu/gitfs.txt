@@ -1,0 +1,5 @@
+- moderate speakers
+- shows how gitfs was build
+- shows features of gitfs, at the high level
+
+Would I recommend watching it: It's not bad however I would rather read up docs at their site instead.
